@@ -1,0 +1,7 @@
+instances/
+solutions/
+include/
+cmake-build-*/
+.DS_Store
+.idea/
+*.zip
